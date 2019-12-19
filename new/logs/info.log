@@ -1,0 +1,175 @@
+
+2019-12-19 20:36:23 werkzeug INFO  * Restarting with stat
+2019-12-19 20:36:26 werkzeug INFO  * Debugger PIN: 295-260-100
+2019-12-19 20:36:26 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 20:36:44 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:36:44] "GET / HTTP/1.1" 200 -
+2019-12-19 20:36:46 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:36:46] "GET /login HTTP/1.1" 200 -
+2019-12-19 20:36:54 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:36:54] "POST /login HTTP/1.1" 200 -
+2019-12-19 20:37:08 werkzeug INFO 123 login success.
+2019-12-19 20:37:08 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:37:08] "POST /login HTTP/1.1" 302 -
+2019-12-19 20:37:08 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:37:08] "GET / HTTP/1.1" 200 -
+2019-12-19 20:37:21 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:37:21] "GET /post/11 HTTP/1.1" 200 -
+2019-12-19 20:37:23 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:37:23] "GET /change_password HTTP/1.1" 200 -
+2019-12-19 20:37:38 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:37:38] "POST /change_password HTTP/1.1" 302 -
+2019-12-19 20:37:38 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:37:38] "GET /auth.logout HTTP/1.1" 404 -
+2019-12-19 20:42:44 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 20:42:48 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:42:48] "GET / HTTP/1.1" 200 -
+2019-12-19 20:42:49 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:42:49] "GET /favicon.ico HTTP/1.1" 404 -
+2019-12-19 20:42:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:42:52] "GET /change_password HTTP/1.1" 200 -
+2019-12-19 20:43:04 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:43:04] "POST /change_password HTTP/1.1" 200 -
+2019-12-19 20:43:28 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:43:28] "POST /change_password HTTP/1.1" 200 -
+2019-12-19 20:43:38 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:43:38] "POST /change_password HTTP/1.1" 302 -
+2019-12-19 20:43:38 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:43:38] "GET /auth.logout HTTP/1.1" 404 -
+2019-12-19 20:52:41 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 20:52:43 werkzeug INFO ----
+2019-12-19 20:52:43 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:52:43] "GET / HTTP/1.1" 200 -
+2019-12-19 20:53:07 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 20:53:10 werkzeug INFO ----
+2019-12-19 20:53:10 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:53:10] "GET / HTTP/1.1" 200 -
+2019-12-19 20:53:12 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:53:12] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 20:53:12 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:53:12] "GET /static/css/userPage.css HTTP/1.1" 304 -
+2019-12-19 20:53:14 werkzeug INFO ----
+2019-12-19 20:53:14 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 20:53:14] "GET / HTTP/1.1" 200 -
+2019-12-19 20:57:05 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 21:09:20 werkzeug INFO ----
+2019-12-19 21:09:20 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:09:20] "GET / HTTP/1.1" 200 -
+2019-12-19 21:10:03 werkzeug INFO ----
+2019-12-19 21:10:03 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:10:03] "GET / HTTP/1.1" 200 -
+2019-12-19 21:10:04 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:10:04] "GET /favicon.ico HTTP/1.1" 404 -
+2019-12-19 21:10:07 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:10:07] "GET /login HTTP/1.1" 200 -
+2019-12-19 21:10:13 werkzeug INFO 123 login success.
+2019-12-19 21:10:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:10:13] "POST /login HTTP/1.1" 302 -
+2019-12-19 21:10:14 werkzeug INFO ----
+2019-12-19 21:10:14 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:10:14] "GET / HTTP/1.1" 200 -
+2019-12-19 21:10:18 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:10:18] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:16:54 werkzeug INFO ----
+2019-12-19 21:16:54 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:16:54] "GET / HTTP/1.1" 200 -
+2019-12-19 21:16:56 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:16:56] "GET /post/11 HTTP/1.1" 200 -
+2019-12-19 21:17:03 werkzeug INFO 123 create a comment for post 11.
+2019-12-19 21:17:03 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:17:03] "POST /post/11 HTTP/1.1" 302 -
+2019-12-19 21:17:03 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:17:03] "GET /post/11 HTTP/1.1" 200 -
+2019-12-19 21:19:18 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:18] "GET /post/11 HTTP/1.1" 200 -
+2019-12-19 21:19:18 werkzeug INFO ----
+2019-12-19 21:19:18 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:18] "GET / HTTP/1.1" 200 -
+2019-12-19 21:19:20 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:20] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:19:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:22] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:19:23 werkzeug INFO ----
+2019-12-19 21:19:23 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:23] "GET / HTTP/1.1" 200 -
+2019-12-19 21:19:24 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:24] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:19:58 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:58] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:19:58 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:58] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:19:58 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:58] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:19:59 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:19:59] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:20:04 werkzeug INFO ----
+2019-12-19 21:20:04 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:04] "GET / HTTP/1.1" 200 -
+2019-12-19 21:20:04 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:04] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:20:05 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:05] "GET /static/css/sign.css HTTP/1.1" 200 -
+2019-12-19 21:20:05 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:05] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:20:08 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:08] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:20:08 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:08] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:20:09 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:09] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:20:09 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:09] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:20:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:22] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:20:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:22] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:20:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:22] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:20:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:20:22] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:21:21 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:21] "GET /eidtInfo/4 HTTP/1.1" 200 -
+2019-12-19 21:21:21 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:21] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:21:21 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:21] "GET /static/css/sign.css HTTP/1.1" 200 -
+2019-12-19 21:21:21 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:21] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:21:30 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:30] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:21:30 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:30] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:21:30 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:30] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:21:30 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:21:30] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:24:50 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:50] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:24:50 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:50] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:24:50 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:50] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:24:51 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:51] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:24:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:53] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:24:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:53] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:24:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:53] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:24:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:24:53] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:25:10 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 21:25:13 werkzeug INFO ----
+2019-12-19 21:25:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:25:13] "GET / HTTP/1.1" 200 -
+2019-12-19 21:25:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:25:13] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:25:14 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:25:14] "GET /static/css/sign.css HTTP/1.1" 200 -
+2019-12-19 21:25:14 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:25:14] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:26:01 werkzeug INFO  * Restarting with stat
+2019-12-19 21:26:03 werkzeug INFO  * Debugger PIN: 295-260-100
+2019-12-19 21:26:03 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 21:26:10 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:10] "GET / HTTP/1.1" 200 -
+2019-12-19 21:26:10 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:10] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:26:10 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:10] "GET /static/css/sign.css HTTP/1.1" 200 -
+2019-12-19 21:26:11 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:11] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:26:12 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:12] "GET /user4 HTTP/1.1" 500 -
+2019-12-19 21:26:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:13] "GET /user4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-12-19 21:26:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:13] "GET /user4?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-12-19 21:26:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:13] "GET /user4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-12-19 21:26:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:13] "GET /user4?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-12-19 21:26:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:13] "GET /user4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-12-19 21:26:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:26:13] "GET /user4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-12-19 21:28:37 werkzeug INFO  * Detected change in 'C:\\Users\\lenovo\\Desktop\\last_version1\\last_version\\new\\app\\views.py', reloading
+2019-12-19 21:28:37 werkzeug INFO  * Restarting with stat
+2019-12-19 21:28:40 werkzeug INFO  * Debugger PIN: 295-260-100
+2019-12-19 21:28:40 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 21:28:53 werkzeug INFO  * Restarting with stat
+2019-12-19 21:28:56 werkzeug INFO  * Debugger PIN: 295-260-100
+2019-12-19 21:28:56 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 21:29:00 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:00] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:29:00 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:00] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:00 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:00] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:29:00 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:00] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:29:12 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:12] "GET /user2 HTTP/1.1" 200 -
+2019-12-19 21:29:12 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:12] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:12 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:12] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:29:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:13] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:29:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:22] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:29:22 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:22] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:23 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:23] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:29:23 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:23] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:29:31 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:31] "GET /Blogs/2 HTTP/1.1" 200 -
+2019-12-19 21:29:31 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:31] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:31 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:31] "GET /static/css/sign.css HTTP/1.1" 200 -
+2019-12-19 21:29:31 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:31] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:29:35 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:35] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:29:35 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:35] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:35 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:35] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:29:36 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:36] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:29:43 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:43] "GET /Blogs/2 HTTP/1.1" 200 -
+2019-12-19 21:29:43 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:43] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:44 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:44] "GET /static/css/sign.css HTTP/1.1" 200 -
+2019-12-19 21:29:44 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:44] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:29:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:53] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:29:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:53] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:29:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:53] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:29:53 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:29:53] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:31:19 werkzeug INFO  * Restarting with stat
+2019-12-19 21:31:21 werkzeug INFO  * Debugger PIN: 295-260-100
+2019-12-19 21:31:22 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-19 21:31:26 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:26] "GET / HTTP/1.1" 200 -
+2019-12-19 21:31:28 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:28] "GET / HTTP/1.1" 200 -
+2019-12-19 21:31:33 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:33] "GET /login HTTP/1.1" 200 -
+2019-12-19 21:31:40 werkzeug INFO 123 login success.
+2019-12-19 21:31:40 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:40] "POST /login HTTP/1.1" 302 -
+2019-12-19 21:31:40 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:40] "GET / HTTP/1.1" 200 -
+2019-12-19 21:31:42 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:42] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:31:42 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:31:42] "GET /static/css/userPage.css HTTP/1.1" 200 -
+2019-12-19 21:32:03 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:03] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:32:05 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:05] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:32:07 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:07] "GET /static/css/base.css HTTP/1.1" 304 -
+2019-12-19 21:32:07 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:07] "GET /static/js/moment.js HTTP/1.1" 304 -
+2019-12-19 21:32:13 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:13] "GET /static/css/userPage.css HTTP/1.1" 304 -
+2019-12-19 21:32:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:52] "GET /user4 HTTP/1.1" 500 -
+2019-12-19 21:32:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:52] "GET /user4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-12-19 21:32:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:52] "GET /user4?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-12-19 21:32:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:52] "GET /user4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-12-19 21:32:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:52] "GET /user4?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-12-19 21:32:52 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:32:52] "GET /user4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-12-19 21:34:40 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:34:40] "GET /user4 HTTP/1.1" 500 -
+2019-12-19 21:34:43 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:34:43] "GET /user4 HTTP/1.1" 500 -
+2019-12-19 21:36:21 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:36:21] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:37:47 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:37:47] "GET /user4 HTTP/1.1" 200 -
+2019-12-19 21:37:48 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:37:48] "GET /static/css/base.css HTTP/1.1" 200 -
+2019-12-19 21:37:48 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:37:48] "GET /static/js/moment.js HTTP/1.1" 200 -
+2019-12-19 21:37:48 werkzeug INFO 127.0.0.1 - - [19/Dec/2019 21:37:48] "GET /static/css/userPage.css HTTP/1.1" 200 -
